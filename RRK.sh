@@ -1,4 +1,5 @@
 
+hi
 mkdir /home/bigdatacloudxlab27228/RRK
 hdfs dfs -mkdir RRK
 hdfs dfs -copyFromLocal /home/bigdatacloudxlab27228/RRK/Listings.csv /user/bigdatacloudxlab27228/RRK/
