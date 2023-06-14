@@ -6,3 +6,4 @@
 # on june 13
 # This is just a comment
 #create a sql table and copy the spark dataframe into sql table using sqoop
+#changes updated on 06/14/23`
